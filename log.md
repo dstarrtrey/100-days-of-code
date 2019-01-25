@@ -8,16 +8,16 @@
 **Thoughts:** Redux is completely new to me, and the functionality of it was a little unclear. I'll need to do some reading on states and the uses for Redux. I was also floored by JavaScript switches and completely forgot them! I'll have to review those, they're definitely more readable and pretier than conditionals.
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
-<!---
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
----><!---
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
----><!---
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
----><!---
-**Link(s) to work**: [Calculator App](http://www.example.com)
---->
+
+### Day 2: January 25, 2019
+##### Python: The Return
+
+**Today's Progress**: Completed first 9 challenges for HackerRank's Python language proficiency. 
+
+**Thoughts**: It's been almost 4 years exactly since fighting to learn basic Python for a web scraper, Flo Sho, with Brad and Kristina. In my job listing perusing yesterday, I noticed a lot of jobs that asked for Ruby, C#, or Python in addition to JavaScript, and remembered Python, and I thought it would be more valuable for me to revisit than C++ as a web developer. The syntax kicked my butt! It was tough getting there but I think it will be helpful in the scope of #100DaysOfCode.
+
+**Link(s) to work**: [Hacker Rank Profile](https://www.hackerrank.com/dstarrtrey)
+
 <!---
 ### Day 1: June 27, Monday
 ---><!---
