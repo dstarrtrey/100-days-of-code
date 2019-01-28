@@ -16,16 +16,15 @@
 
 **Thoughts**: It's been almost 4 years exactly since fighting to learn basic Python for a web scraper, Flo Sho, with Brad and Kristina. In my job listing perusing yesterday, I noticed a lot of jobs that asked for Ruby, C#, or Python in addition to JavaScript, and remembered Python, and I thought it would be more valuable for me to revisit than C++ as a web developer. The syntax kicked my butt! It was tough getting there but I think it will be helpful in the scope of #100DaysOfCode.
 
-**Link(s) to work**: [Hacker Rank Profile](https://www.hackerrank.com/dstarrtrey)
+**Link to work**: [Hacker Rank Profile](https://www.hackerrank.com/dstarrtrey)
 
-<!---
-### Day 1: June 27, Monday
----><!---
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
----><!---
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
----><!---
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---->
+### Day 1: January 27, 2019
+##### Chessboard Progress!
+
+**Today's Progress**: Decent organization set up for ChessBoard App!
+
+**Thoughts** I missed yesterday, but ended up being so engrossed that I spent like 2 hours on it! Python felt like it would be too difficult for something that might not prove useful. The Chessboard would be a great centerpiece for my portfolio!
+
+**Link to work**
+1. [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+
