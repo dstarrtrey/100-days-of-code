@@ -18,13 +18,20 @@
 
 **Link to work**: [Hacker Rank Profile](https://www.hackerrank.com/dstarrtrey)
 
-### Day 1: January 27, 2019
+### Day 3: January 27, 2019
 ##### Chessboard Progress!
 
 **Today's Progress**: Decent organization set up for ChessBoard App!
 
-**Thoughts** I missed yesterday, but ended up being so engrossed that I spent like 2 hours on it! Python felt like it would be too difficult for something that might not prove useful. The Chessboard would be a great centerpiece for my portfolio!
+**Thoughts**: I missed yesterday, but ended up being so engrossed that I spent like 2 hours on it! Python felt like it would be too difficult for something that might not prove useful. The Chessboard would be a great centerpiece for my portfolio!
 
-**Link to work**
-1. [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
 
+### Day 4: January 28, 2019
+##### Chessboard progress & database implementation
+
+**Today's Progress**: Added movement capabilities & firebase to thhe Chessboard.
+
+**Thoughts**: I got ADDICTED to this project today and made a lot of headway. It felt really fulfilling!
+
+**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
