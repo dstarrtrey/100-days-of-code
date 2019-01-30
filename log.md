@@ -35,3 +35,12 @@
 **Thoughts**: I got ADDICTED to this project today and made a lot of headway. It felt really fulfilling!
 
 **Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+
+### Day 5: January 29, 2019
+##### Chessboard almost final stretch
+
+**Today's Progress**: Tried to implement checkmate. Ouch.
+
+**Thoughts**: It was a little frustrating but I'm so close!!
+
+**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
