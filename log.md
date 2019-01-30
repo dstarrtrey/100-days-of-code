@@ -25,7 +25,7 @@
 
 **Thoughts**: I missed yesterday, but ended up being so engrossed that I spent like 2 hours on it! Python felt like it would be too difficult for something that might not prove useful. The Chessboard would be a great centerpiece for my portfolio!
 
-**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
 
 ### Day 4: January 28, 2019
 ##### Chessboard progress & database implementation
@@ -34,7 +34,7 @@
 
 **Thoughts**: I got ADDICTED to this project today and made a lot of headway. It felt really fulfilling!
 
-**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
 
 ### Day 5: January 29, 2019
 ##### Chessboard almost final stretch
@@ -43,4 +43,13 @@
 
 **Thoughts**: It was a little frustrating but I'm so close!!
 
-**Link to work**: [ChessBoard](https://dstarrtrey.github.io/Chess-Board/)
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
+
+### Day 6: January 30, 2019
+##### Chessboard hopefully complete!
+
+**Today's Progress**: Finished the chessboard hopefully. Have to test it still!
+
+**Thoughts**: It feels so good to have it done!
+
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
