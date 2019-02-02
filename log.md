@@ -53,3 +53,12 @@
 **Thoughts**: It feels so good to have it done!
 
 **Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
+
+### Day 7: February 1, 2019
+##### Chessboard was not complete.
+
+**Today's Progress**: Fixed a couple bugs! Several more to go.
+
+**Thoughts**: It was frustrating and sorta tedious, but I know I had to do it, and I can't wait to add it to the list of completions.
+
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
