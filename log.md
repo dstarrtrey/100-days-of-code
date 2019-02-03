@@ -62,3 +62,12 @@
 **Thoughts**: It was frustrating and sorta tedious, but I know I had to do it, and I can't wait to add it to the list of completions.
 
 **Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
+
+### Day 8: February 2, 2019
+##### Chessboard is now complete!
+
+**Today's Progress**: I have a totally presentable final product!
+
+**Thoughts**: I'm pretty happy with it! Can't wait to try it out with Grace! I have no idea what I'll do tomorrow. 
+
+**Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
