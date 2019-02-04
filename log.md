@@ -71,3 +71,12 @@
 **Thoughts**: I'm pretty happy with it! Can't wait to try it out with Grace! I have no idea what I'll do tomorrow. 
 
 **Link to work**: [Chess-Board-2Player](https://dstarrtrey.github.io/Chess-Board-2Player/)
+
+### Day 9: February 3, 2019
+##### Portfolio in Progress
+
+**Today's Progress**: Sketches and some css animation practice.
+
+**Thoughts**: It seems like it's gonna be a pretty big undertaking. Might need some react for these animations.
+
+**Link to work**: N/A
