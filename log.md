@@ -84,8 +84,17 @@
 ### Day 10: February 4, 2019
 ##### Intro to React
 
-**Today's Progress**: First 27 React challenges on freeCodeCamp!
+**Today's Progress**: A bunch of React challenges on freeCodeCamp!
 
 **Thoughts**: I forgot to start the timer today so I think I did a LOT more than I might have needed to. Not a bad thing at all! I'm understanding it and seeing its uses! This is gonna be powerful.
+
+**Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
+
+### Day 11: February 5, 2019
+##### Continuing React
+
+**Today's Progress**: A few more challenges on freeCodeCamp
+
+**Thoughts**: Challenges got a little tougher today with a lot of reading included. I am beginning to feel more comfortable with the library, but not enough to understand making my own projects with it. 
 
 **Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
