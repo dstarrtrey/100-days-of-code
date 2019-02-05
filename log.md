@@ -80,3 +80,12 @@
 **Thoughts**: It seems like it's gonna be a pretty big undertaking. Might need some react for these animations.
 
 **Link to work**: N/A
+
+### Day 10: February 4, 2019
+##### Intro to React
+
+**Today's Progress**: First 27 React challenges on freeCodeCamp!
+
+**Thoughts**: I forgot to start the timer today so I think I did a LOT more than I might have needed to. Not a bad thing at all! I'm understanding it and seeing its uses! This is gonna be powerful.
+
+**Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
