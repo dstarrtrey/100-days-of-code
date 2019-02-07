@@ -98,3 +98,12 @@
 **Thoughts**: Challenges got a little tougher today with a lot of reading included. I am beginning to feel more comfortable with the library, but not enough to understand making my own projects with it. 
 
 **Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
+
+### Day 12: Febrary 6, 2019
+##### React again
+
+**Today's Progress**: Some more freeCodeCamp challenges!
+
+**Thoughts**: It's getting a little boring to do, might try a different site tomorrow to see if I'm starting to understand it. Might need more resources to see it in action.
+
+**Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
