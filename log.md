@@ -107,3 +107,12 @@
 **Thoughts**: It's getting a little boring to do, might try a different site tomorrow to see if I'm starting to understand it. Might need more resources to see it in action.
 
 **Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
+
+### Day 13: February 7, 2019
+##### More React
+
+**Today's Progress**: A bit of research and a few freeCodeCamp challenges
+
+**Thoughts**: I'm excited to learn more! Slooooow going though.
+
+**Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
