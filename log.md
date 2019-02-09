@@ -116,3 +116,12 @@
 **Thoughts**: I'm excited to learn more! Slooooow going though.
 
 **Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
+
+### Day 14: February 8, 2019
+##### Practical Reactical
+
+**Today's Progress**: Did the official React tutorial and started setting up React Chess project!
+
+**Thoughts**: I feel WAY more comfortable with React after doing the tutorial for it. Super excited!
+
+**Link to work**: [Chess-Board-React] (https://github.com/dstarrtrey/Chess-Board-React)
