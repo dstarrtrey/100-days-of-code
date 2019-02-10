@@ -132,3 +132,10 @@
 **Today's Progress**: Added undo function to my chess app and started setting up to do some beginner projects in React!
 
 **Link to work**: [Chess-Board-2Player] (https://dstarrtrey.github.io/Chess-Board-2Player/)
+
+### Day 16: February 10, 2019
+##### Markdown Previewer Project Beginnings
+
+**Today's Progress**: Did almost all backend for markdown previewer using react!
+
+**Link to work** [markdown-previewer] (https://github.com/dstarrtrey/react-projects/tree/master/markdown-previewer)
