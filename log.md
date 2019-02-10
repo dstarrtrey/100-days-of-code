@@ -125,3 +125,10 @@
 **Thoughts**: I feel WAY more comfortable with React after doing the tutorial for it. Super excited!
 
 **Link to work**: [Chess-Board-React] (https://github.com/dstarrtrey/Chess-Board-React)
+
+### Day 15: February 9, 2019
+##### React projects repo and command line setup
+
+**Today's Progress**: Added undo function to my chess app and started setting up to do some beginner projects in React!
+
+**Link to work**: [Chess-Board-2Player] (https://dstarrtrey.github.io/Chess-Board-2Player/)
