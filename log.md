@@ -139,3 +139,12 @@
 **Today's Progress**: Did almost all backend for markdown previewer using react!
 
 **Link to work** [markdown-previewer] (https://github.com/dstarrtrey/react-projects/tree/master/markdown-previewer)
+
+### Day 17: February 11, 2019
+##### Finished React Challenges!
+
+**Today's Progress**: Finished freeCodeCamp's React challenges, and got started with the "React and Redux" challenges as well as reviewed a view of the Redux Challenges I already did.
+
+**Thoughts**: I feel way better about React than I did last week! Redux seems totally foreign to me now, but I'm sure soon enough it will feel practical to me. I am excited to do more with React, and I will probably work on the markdown project some more later today.
+
+**Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
