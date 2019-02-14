@@ -148,3 +148,12 @@
 **Thoughts**: I feel way better about React than I did last week! Redux seems totally foreign to me now, but I'm sure soon enough it will feel practical to me. I am excited to do more with React, and I will probably work on the markdown project some more later today.
 
 **Link to work**: [freeCodeCamp Profile](https://www.freecodecamp.org/dstarrtrey)
+
+### Days 18 and 19: February 12-13, 2019
+##### Portfolio Overhaul!
+
+**Progress**: Redid my portfolio and proud of it!
+
+**Thoughts**: Totally neglected to post logs of today and yesterday but the portfolio has been taking up HOURS and HOURS of work and I have produced something I'm proud of!
+
+**Link to work**: [Portfolio](http://dstarrtrey.github.io/davidstarr.me)
